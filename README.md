@@ -9,10 +9,10 @@ This GitHub profile is a focused selection of my **personal, playable prototypes
 
 ## Playable projects
 
-| Mini-Games | Jumping Souls |
-|:--|:--|
-| **12 small playable prototypes** across different genres, designed and built with AI assistance. | **Solo 48-hour Global Game Jam 2026 game** featuring an escalating level, upgrades, and game balancing. |
-| [Play collection](https://arnmini-game.netlify.app/game_launcher.html) · [GitHub repo](https://github.com/ArsenArn/Mini-Games) | [Play game](https://jumproguelike-arngames.netlify.app/) · [GitHub repo](https://github.com/ArsenArn/Jumping-Souls) · [Game Jam](https://globalgamejam.org/games/2026/jumping-soul-8) |
+| Mini-Games | Jumping Souls | Quiet Cove |
+|:--|:--|:--|
+| **12 small playable prototypes** across different genres, designed and built with AI assistance. | **Solo 48-hour Global Game Jam 2026 game** featuring an escalating level, upgrades, and game balancing. | **Incremental fishing prototype** featuring guided progression, fleet automation, and a second territory with pirates and salvage. |
+| [Play collection](https://arnmini-game.netlify.app/game_launcher.html) · [GitHub repo](https://github.com/ArsenArn/Mini-Games) | [Play game](https://jumproguelike-arngames.netlify.app/) · [GitHub repo](https://github.com/ArsenArn/Jumping-Souls) · [Game Jam](https://globalgamejam.org/games/2026/jumping-soul-8) | [Play game](https://quiet-cove.netlify.app/) · [GitHub repo](https://github.com/ArsenArn/quiet-cove) |
 
 ## What I do
 
