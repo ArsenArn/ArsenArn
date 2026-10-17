@@ -9,10 +9,12 @@ This GitHub profile is a focused selection of my **personal, playable prototypes
 
 ## Playable projects
 
-| Mini-Games | Jumping Souls | Quiet Cove |
+| Project | Overview | Links |
 |:--|:--|:--|
-| **12 small playable prototypes** across different genres, designed and built with AI assistance. | **Solo 48-hour Global Game Jam 2026 game** featuring an escalating level, upgrades, and game balancing. | **Incremental fishing prototype** featuring guided progression, fleet automation, and a second territory with pirates and salvage. |
-| [Play collection](https://arnmini-game.netlify.app/game_launcher.html) · [GitHub repo](https://github.com/ArsenArn/Mini-Games) | [Play game](https://jumproguelike-arngames.netlify.app/) · [GitHub repo](https://github.com/ArsenArn/Jumping-Souls) · [Game Jam](https://globalgamejam.org/games/2026/jumping-soul-8) | [Play game](https://quiet-cove.netlify.app/) · [GitHub repo](https://github.com/ArsenArn/quiet-cove) |
+| **Rollkeep: Dice Defense** | **Hybrid-midcore fantasy auto-defense roguelite.** Roll dice, deploy swordsmen, archers and mages, defend three territories, and permanently upgrade individual dice faces. Phaser 3 + TypeScript R&D prototype. | [Play game](https://rollkeep-demo.netlify.app/) · [GitHub repo](https://github.com/ArsenArn/dice-barracks) |
+| **Quiet Cove** | Incremental fishing prototype featuring guided progression, fleet automation, and a second territory with pirates and salvage. | [Play game](https://quiet-cove.netlify.app/) · [GitHub repo](https://github.com/ArsenArn/quiet-cove) |
+| **Jumping Souls** | Solo 48-hour Global Game Jam 2026 game featuring an escalating level, upgrades, and game balancing. | [Play game](https://jumproguelike-arngames.netlify.app/) · [GitHub repo](https://github.com/ArsenArn/Jumping-Souls) · [Game Jam](https://globalgamejam.org/games/2026/jumping-soul-8) |
+| **Mini-Games** | 12 small playable prototypes across different genres, designed and built with AI assistance. | [Play collection](https://arnmini-game.netlify.app/game_launcher.html) · [GitHub repo](https://github.com/ArsenArn/Mini-Games) |
 
 ## What I do
 
@@ -22,7 +24,6 @@ This GitHub profile is a focused selection of my **personal, playable prototypes
 - Hands-on Unity game design and AI-assisted prototyping with ChatGPT and Codex
 
 ## Connect
-
 
 [Game Portfolio](https://docs.google.com/document/d/1qJsV8uChypzuQtQDsQ1JGkQvNtHtgRX7/edit) · [LinkedIn](https://www.linkedin.com/in/arsen-arn/) · [Mini-Games demo](https://arnmini-game.netlify.app/game_launcher.html) · [Jumping Souls demo](https://jumproguelike-arngames.netlify.app/)
 
