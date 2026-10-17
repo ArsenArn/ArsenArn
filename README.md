@@ -25,6 +25,6 @@ This GitHub profile is a focused selection of my **personal, playable prototypes
 
 ## Connect
 
-[Game Portfolio](https://docs.google.com/document/d/1qJsV8uChypzuQtQDsQ1JGkQvNtHtgRX7/edit) · [LinkedIn](https://www.linkedin.com/in/arsen-arn/) · [Mini-Games demo](https://arnmini-game.netlify.app/game_launcher.html) · [Jumping Souls demo](https://jumproguelike-arngames.netlify.app/)
+[Game Portfolio](https://docs.google.com/document/d/1qJsV8uChypzuQtQDsQ1JGkQvNtHtgRX7/edit) · [LinkedIn](https://www.linkedin.com/in/arsen-arn/) · [Rollkeep demo](https://rollkeep-demo.netlify.app/) · [Quiet Cove demo](https://quiet-cove.netlify.app/) · [Mini-Games demo](https://arnmini-game.netlify.app/game_launcher.html) · [Jumping Souls demo](https://jumproguelike-arngames.netlify.app/)
 
 > My commercial game credits and professional portfolio are separate from these personal code repositories.
